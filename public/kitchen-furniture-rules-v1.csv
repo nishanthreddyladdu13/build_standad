@@ -1,0 +1,20 @@
+rule_id,item,value,trigger,evidence_class,source_locator,status,calculator_use
+KIT-R001,Personalised worktop band,Elbow height minus 150-100 mm,Standing preparation worktop,Derived advisory,Hettich PDF p.16 + Indian Anthropometric Dimensions printed p.36 / PDF p.40,active,yes
+KIT-R002,One-cook work aisle,1067 mm,One principal cook,Professional recommendation,NKBA Kitchen Planning Guideline 6 PDF file p.6 / printed p.6,active,yes
+KIT-R003,Multiple-cook work aisle,1219 mm,Two or more simultaneous cooks,Professional recommendation,NKBA Kitchen Planning Guideline 6 PDF file p.6 / printed p.6,active,yes
+KIT-R004,Walkway,914 mm,Passage that is not a work aisle,Professional recommendation,NKBA Kitchen Planning Guideline 7 PDF p.7,active,yes
+KIT-R005,Primary preparation surface,914 x 610 mm,Continuous worktop immediately next to sink,Professional recommendation,NKBA Kitchen Planning Guideline 12 PDF p.13,active,yes
+KIT-R006,Sink landing,610 mm + 457 mm,Primary cleanup/preparation sink,Professional recommendation,NKBA Kitchen Planning Guideline 11 PDF p.12,active,yes
+KIT-R007,Cooking-surface landing,305 mm + 381 mm,Hob or cooking surface,Professional recommendation,NKBA Kitchen Planning Guideline 17 PDF p.17,active,yes
+KIT-R008,Refrigerator landing,381 mm,Handle side or listed alternative,Professional recommendation,NKBA Kitchen Planning Guideline 16 PDF p.16,active,yes
+KIT-R009,Dishwasher relationship,Within 914 mm of sink; 533 mm right-angle standing space,Dishwasher included,Professional recommendation,NKBA Kitchen Planning Guideline 13 PDF p.14,active,yes
+KIT-R010,Protected overhead above hob,610 mm advisory,Protected noncombustible surface above cooking surface,Professional recommendation,NKBA Kitchen Planning Guideline 18 PDF pp.18-19,reference,warning_only
+KIT-R011,Microwave bottom,Shoulder height minus 76 mm; maximum 1372 mm AFF,Wall or tall-unit microwave,Derived advisory,NKBA Kitchen Planning Guideline 21 PDF p.23 + Indian Anthropometric Dimensions printed p.35 / PDF p.39,active,yes
+KIT-R012,Microwave landing,381 mm,Landing above below or beside handle side,Professional recommendation,NKBA Kitchen Planning Guideline 22 PDF p.24,active,yes
+KIT-R013,Inclusive vertical reach reference,1759 mm,Female 5th-percentile Indian raw measure,Indian anthropometric data,Indian Anthropometric Dimensions printed p.43 / PDF p.48,reference,display_only
+KIT-R014,Frequently used storage zone,Near selected user's waist height,Everyday utensils cookware and crockery,Derived advisory,Hettich PDF p.16 + Indian Anthropometric Dimensions printed p.36 / PDF p.40,reference,display_only
+KIT-R015,Cabinet carcass shutter and hardware dimensions,Selected system required,Every cabinet specification,Product-specific,None until product system is selected,product-specific,no
+KIT-R016,Appliance recess ventilation and door-swing clearance,Selected model manual required,Every refrigerator oven hob hood microwave and dishwasher,Product-specific,None until appliance model is selected,product-specific,no
+KIT-R017,Kitchen room envelope without dining,5.00 m2 area; 1.80 m clear width; 2.75 m clear height,Separate kitchen without dining,India national reference,SP 73:2023 Table 32 / PDF p.181 / printed p.157 / clause 6.1.2.3,active,yes
+KIT-R018,Kitchen room envelope with dining,7.50 m2 area; 2.10 m clear width; 2.75 m clear height,Kitchen includes dining,India national reference,SP 73:2023 Table 32 / PDF p.181 / printed p.157 / clause 6.1.2.3,active,yes
+KIT-R019,Furnished clear-width fit,Depth A + advisory aisle + optional opposing depth B,Selected layout and product depths,Derived calculation,SP 73:2023 Table 32 + NKBA Guideline 6 + user or product depth inputs,active,yes

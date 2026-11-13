@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">KIT-D01 — Regulatory room envelope versus functional furniture envelope</title>
+  <desc id="desc">Two-panel original technical diagram. Panel A shows SP 73:2023 national-model kitchen minimums. Panel B shows the separately labelled NKBA advisory work-aisle check for one or multiple cooks.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7f8f6}.panel{fill:#ffffff;stroke:#d9ddd8;stroke-width:2}.navy{fill:#17324d}.ink{fill:#263238}.muted{fill:#64706d}.small{font:18px Arial,sans-serif}.tiny{font:15px Arial,sans-serif}.body{font:21px Arial,sans-serif}.label{font:bold 18px Arial,sans-serif;letter-spacing:.8px}.sub{font:bold 25px Arial,sans-serif}.title{font:bold 36px Arial,sans-serif}.num{font:bold 29px Arial,sans-serif}.source{font:16px Arial,sans-serif}.wall{fill:#28323b}.counter{fill:#c9d4cc;stroke:#52635b;stroke-width:2}.appliance{fill:#e7ebe8;stroke:#52635b;stroke-width:2}.accent{stroke:#147d83;fill:none;stroke-width:3}.advisory{fill:#e5f3f3;stroke:#147d83;stroke-width:2}.official{fill:#e8eef4;stroke:#355f7d;stroke-width:2}.warn{fill:#fff3d7;stroke:#c28b26;stroke-width:2}.ghost{fill:#eef1ef;stroke:#9aa5a0;stroke-width:2;stroke-dasharray:8 7}.dim{stroke:#147d83;stroke-width:2;fill:none}.dimText{fill:#0d6469;font:bold 19px Arial,sans-serif}.roomText{fill:#284d69;font:bold 19px Arial,sans-serif}.white{fill:#fff}.center{text-anchor:middle}.right{text-anchor:end}.mono{font:18px 'Courier New',monospace}.rule{stroke:#d9ddd8;stroke-width:2}.badge{font:bold 14px Arial,sans-serif;letter-spacing:1.1px}.person{fill:#b8c3be;stroke:#68766f;stroke-width:2}.zone{fill:#edf2ef;stroke:#91a198;stroke-width:1.5}.landing{fill:#d8f0ed;stroke:#147d83;stroke-width:1.5;stroke-dasharray:7 5}
+    </style>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#147d83"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#355f7d"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="1000"/>
+  <rect class="navy" x="0" y="0" width="1600" height="105"/>
+  <text class="title white" x="58" y="56">Room minimum ≠ furnished-layout minimum</text>
+  <text class="small white" x="58" y="87">KIT-D01 · Original replacement artwork · Draft for review</text>
+  <rect x="1292" y="28" rx="16" ry="16" width="250" height="48" fill="#fff3d7"/>
+  <text class="badge center" x="1417" y="58" fill="#8a5c0a">NOT YET IN PUBLIC APP</text>
+
+  <rect class="panel" x="50" y="135" rx="20" ry="20" width="650" height="705"/>
+  <rect class="panel" x="730" y="135" rx="20" ry="20" width="820" height="705"/>
+
+  <!-- Panel A -->
+  <rect class="official" x="80" y="165" rx="13" ry="13" width="193" height="34"/>
+  <text class="badge center" x="176" y="188" fill="#284d69">REGULATORY LAYER</text>
+  <text class="sub ink" x="80" y="238">A. National-model room envelope</text>
+  <text class="small muted" x="80" y="270">SP 73:2023 · Table 32 · local adoption/overlay still applies</text>
+
+  <rect class="official" x="80" y="298" rx="12" ry="12" width="285" height="112"/>
+  <text class="label roomText" x="100" y="328">WITHOUT DINING</text>
+  <text class="num roomText" x="100" y="366">5.00 m²</text>
+  <text class="small ink" x="225" y="364">minimum area</text>
+  <text class="tiny ink" x="100" y="393">width ≥ 1.80 m · height ≥ 2.75 m</text>
+  <rect class="official" x="385" y="298" rx="12" ry="12" width="285" height="112"/>
+  <text class="label roomText" x="405" y="328">WITH DINING</text>
+  <text class="num roomText" x="405" y="366">7.50 m²</text>
+  <text class="small ink" x="530" y="364">minimum area</text>
+  <text class="tiny ink" x="405" y="393">width ≥ 2.10 m · height ≥ 2.75 m</text>
+
+  <!-- Derived illustrative room, not a prescribed proportion -->
+  <rect class="wall" x="166" y="467" width="418" height="20"/>
+  <rect class="wall" x="166" y="467" width="20" height="270"/>
+  <rect class="wall" x="564" y="467" width="20" height="270"/>
+  <rect class="wall" x="166" y="717" width="418" height="20"/>
+  <rect x="186" y="487" width="378" height="230" fill="#fafbf9"/>
+  <text class="label center ink" x="375" y="575">EMPTY CLEAR ROOM</text>
+  <text class="num center roomText" x="375" y="613">5.00 m² minimum</text>
+  <text class="small center muted" x="375" y="640">Illustrative rectangle only</text>
+  <text class="small center muted" x="375" y="667">not a prescribed proportion</text>
+
+  <line x1="186" y1="450" x2="564" y2="450" stroke="#355f7d" stroke-width="2" marker-start="url(#arrowBlue)" marker-end="url(#arrowBlue)"/>
+  <line x1="186" y1="460" x2="186" y2="434" stroke="#355f7d" stroke-width="2"/>
+  <line x1="564" y1="460" x2="564" y2="434" stroke="#355f7d" stroke-width="2"/>
+  <text class="roomText center" x="375" y="439">≥ 2.78 m derived at 1.80 m width*</text>
+
+  <line x1="135" y1="487" x2="135" y2="717" stroke="#355f7d" stroke-width="2" marker-start="url(#arrowBlue)" marker-end="url(#arrowBlue)"/>
+  <line x1="150" y1="487" x2="119" y2="487" stroke="#355f7d" stroke-width="2"/>
+  <line x1="150" y1="717" x2="119" y2="717" stroke="#355f7d" stroke-width="2"/>
+  <text class="roomText center" x="104" y="602" transform="rotate(-90 104 602)">≥ 1.80 m clear width</text>
+
+  <rect class="warn" x="80" y="755" rx="10" ry="10" width="590" height="58"/>
+  <text class="tiny ink" x="100" y="780">*Derived check: 5.00 ÷ 1.80 = 2.778 m. The source specifies area, width</text>
+  <text class="tiny ink" x="100" y="801">and height—not one mandatory length or length-to-width ratio.</text>
+
+  <!-- Panel B -->
+  <rect class="advisory" x="760" y="165" rx="13" ry="13" width="189" height="34"/>
+  <text class="badge center" x="854" y="188" fill="#0d6469">ADVISORY LAYER</text>
+  <text class="sub ink" x="760" y="238">B. Furnished functional envelope</text>
+  <text class="small muted" x="760" y="270">NKBA Guideline 6 · professional recommendation · not Indian regulation</text>
+
+  <!-- Room and counters -->
+  <rect class="wall" x="800" y="314" width="690" height="18"/>
+  <rect class="wall" x="800" y="314" width="18" height="446"/>
+  <rect class="wall" x="1472" y="314" width="18" height="446"/>
+  <rect class="wall" x="800" y="742" width="690" height="18"/>
+
+  <rect class="counter" x="838" y="342" width="614" height="100" rx="6" ry="6"/>
+  <line x1="838" y1="442" x2="1452" y2="442" stroke="#263238" stroke-width="4"/>
+  <rect class="zone" x="853" y="355" width="122" height="72" rx="6" ry="6"/>
+  <text class="label center ink" x="914" y="387">FRIDGE</text>
+  <text class="tiny center muted" x="914" y="411">appliance face</text>
+  <rect class="landing" x="988" y="355" width="105" height="72" rx="6" ry="6"/>
+  <text class="tiny center ink" x="1040" y="396">LANDING</text>
+  <rect class="zone" x="1106" y="355" width="120" height="72" rx="6" ry="6"/>
+  <circle cx="1166" cy="391" r="25" fill="none" stroke="#52635b" stroke-width="3"/>
+  <line x1="1145" y1="370" x2="1187" y2="412" stroke="#52635b" stroke-width="3"/>
+  <line x1="1187" y1="370" x2="1145" y2="412" stroke="#52635b" stroke-width="3"/>
+  <text class="tiny center ink" x="1166" y="422">HOB</text>
+  <rect class="landing" x="1239" y="355" width="94" height="72" rx="6" ry="6"/>
+  <text class="tiny center ink" x="1286" y="396">PREP</text>
+  <rect class="zone" x="1346" y="355" width="91" height="72" rx="6" ry="6"/>
+  <ellipse cx="1391" cy="388" rx="29" ry="19" fill="none" stroke="#52635b" stroke-width="3"/>
+  <circle cx="1391" cy="388" r="5" fill="#52635b"/>
+  <text class="tiny center ink" x="1391" y="422">SINK</text>
+
+  <rect class="counter" x="962" y="649" width="366" height="76" rx="6" ry="6"/>
+  <line x1="962" y1="649" x2="1328" y2="649" stroke="#263238" stroke-width="4"/>
+  <text class="small center ink" x="1145" y="692">OPPOSING RUN / TALL STORAGE</text>
+  <text class="tiny center muted" x="1145" y="716">depth dB is configurable</text>
+  <text class="tiny ink" x="1371" y="389" transform="rotate(90 1371 389)"></text>
+
+  <!-- plan-view person -->
+  <circle class="person" cx="1145" cy="533" r="30"/>
+  <ellipse class="person" cx="1145" cy="584" rx="45" ry="34"/>
+  <path d="M1100 561 C1060 550,1056 520,1081 503" class="accent"/>
+  <path d="M1190 561 C1230 550,1234 520,1209 503" class="accent"/>
+
+  <!-- aisle dimension -->
+  <line class="dim" x1="1050" y1="458" x2="1050" y2="633" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line class="dim" x1="1025" y1="442" x2="1072" y2="442"/>
+  <line class="dim" x1="1025" y1="649" x2="1072" y2="649"/>
+  <rect class="advisory" x="784" y="490" rx="12" ry="12" width="244" height="93"/>
+  <text class="label center" x="906" y="520" fill="#0d6469">ONE COOK</text>
+  <text class="num center" x="906" y="556" fill="#0d6469">≥ 1067 mm</text>
+  <text class="tiny center muted" x="906" y="576">counter/appliance face to face</text>
+  <text class="dimText center" x="1084" y="545" transform="rotate(-90 1084 545)">WORK AISLE</text>
+
+  <rect class="advisory" x="1340" y="489" rx="12" ry="12" width="128" height="102"/>
+  <text class="badge center ink" x="1404" y="513">MULTIPLE</text>
+  <text class="badge center ink" x="1404" y="531">COOKS</text>
+  <text class="label center" x="1404" y="558" fill="#0d6469">≥ 1219 mm</text>
+  <text class="tiny center muted" x="1404" y="582">alternate state</text>
+
+  <!-- Formula / decision card -->
+  <rect class="warn" x="760" y="780" rx="11" ry="11" width="760" height="34"/>
+  <text class="mono center ink" x="1140" y="803">Two runs: required clear width W ≥ dA + selected aisle + dB</text>
+
+  <!-- Footer -->
+  <line class="rule" x1="50" y1="870" x2="1550" y2="870"/>
+  <text class="source ink" x="58" y="901"><tspan font-weight="bold">Regulatory citation:</tspan> SRC-SP73-2023 · PDF p.181 · printed p.157 · 6.1.2.3 · Table 32</text>
+  <text class="source ink" x="58" y="930"><tspan font-weight="bold">Advisory citation:</tspan> SRC-NKBA-KPG-2022 · PDF/printed p.6 · Kitchen Planning Guideline 6</text>
+  <rect class="warn" x="1015" y="890" rx="10" ry="10" width="527" height="54"/>
+  <text class="small center" x="1278" y="914" fill="#8a5c0a">If the room passes A but the furniture check fails B:</text>
+  <text class="label center" x="1278" y="937" fill="#8a5c0a">REPORT THE CONFLICT · DO NOT DISTORT THE PLAN</text>
+  <text class="tiny muted" x="58" y="972">Original vector artwork. No source-page pixels. Counter/appliance depths are configurable assumptions, not labelled as Indian regulatory minimums.</text>
+</svg>
